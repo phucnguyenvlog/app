@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/phucnguyenvlog/app/main/app/IPA6/MeituClassic.ipa</string>
+					<string>https://raw.githubusercontent.com/phucnguyenvlog/repo/main/app/IPA6/MeituClassic.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/phucnguyenvlog/app/main/icons/MeituClassic.png</string>
+					<string>https://raw.githubusercontent.com/phucnguyenvlog/repo/main/icons/MeituClassic.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
